@@ -1,7 +1,0 @@
-解决IE小于18个像素按18个像素来算问题：overflow：hidden
-火狐高度撑开问题：去掉外层的height
-浮动问题解决：注意覆盖 全浮动   
-占整行(左右两边都不予许浮动)：clear：both
-火狐边框问题：向外扩展  解决方法：例：width：398px !important;                                            width:440px
-clear:left  注意清除左浮动
-overflow：auto 内容超出父元素容器后自动加滚动条
